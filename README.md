@@ -1,3 +1,3 @@
 # adbks
 premium apps mangers backup
-comprabilty: trollstore apps manger and cydia apps manger
+comprabilty: ios 15.0-15.4.1
