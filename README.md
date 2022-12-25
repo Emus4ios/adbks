@@ -2,6 +2,7 @@
 premium apps mangers backup
 comprabilty: ios 15.0-15.4.1
 
+(also comptabile with xinaA15 and palera1n)
 
 do note for apps that are too large such  as fit ess ai++ and athan pro++ and vsco++ heres a url in media fire:
 
