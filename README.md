@@ -1,6 +1,6 @@
 # adbks
 
-please read this read md and stop asking me on my twitter on "how to install adbks"
+please read this read md and stop asking me on twitter on "how to install adbks"
 
 to be speicfic first thing this  is only comptabile with trollstore this also supports all/most  jailbroken ios  devices
 
