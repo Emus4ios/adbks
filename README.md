@@ -11,5 +11,3 @@ to use it simply download an adbk that u want tap share on  it  then share it to
 u should have premium/vip in  said app
 
  
-for larger apps 
-tempmail++:https://www.mediafire.com/file/89k1tg3wdu0ggzo/tempmail_crack.adbk/file
