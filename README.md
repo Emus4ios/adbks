@@ -1,4 +1,7 @@
 # adbks
+everything hear as if know is not functional this library maybe be be backup in 1-6 weeks please be patient i was gone due to exama thank you and have a nice day :)
+
+
 
 please read this read md and stop asking me on twitter on "how to install adbks"
 
