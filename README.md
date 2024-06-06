@@ -5,6 +5,8 @@
 
 This library is currently being updated # stay tuned 
 
+note: update will happen in 1-3weeks :))
+
 
 
 
