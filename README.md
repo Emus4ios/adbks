@@ -3,15 +3,8 @@
 
 
 
-guys this stuff hasnt been updated in a while i might update it soon though stay tunned
+This library is currently being updated # stay tuned 
 
-
-iam also inactive in twitter if u wanna contact me use telegram :
-@Moh is my username
-
-
-
-everything hear as if know is not functional this library maybe be be backup in 1-6 weeks please be patient i was gone due to exama thank you and have a nice day :)
 
 
 
